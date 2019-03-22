@@ -1,0 +1,2 @@
+# fuzzcppcheck
+For fuzzing cppcheck
