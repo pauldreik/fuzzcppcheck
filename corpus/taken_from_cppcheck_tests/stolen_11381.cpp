@@ -1,0 +1,1 @@
+struct hfs_bnode *node;struct hfs_btree *tree;while ((node = tree->node_hash[i++])) { }

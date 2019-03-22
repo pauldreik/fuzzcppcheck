@@ -1,0 +1,1 @@
+DensePropertyMap<int, true> visited;

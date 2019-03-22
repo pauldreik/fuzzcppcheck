@@ -1,0 +1,1 @@
+void f(std::ptrdiff_t x){printf("%hx", x);}

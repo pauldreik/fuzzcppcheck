@@ -1,0 +1,1 @@
+void f(signed short x){printf("%Lu", x);}

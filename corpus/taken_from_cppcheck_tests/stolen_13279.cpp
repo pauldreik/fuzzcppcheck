@@ -1,0 +1,1 @@
+void f() {    for (int k=0; k<VectorSize; k++)        LOG_OUT(ID_Vector[k])}

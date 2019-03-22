@@ -1,0 +1,1 @@
+int foo(int) { return 1; }; char buf[1024]; int a=sizeof(buf), foo(0)

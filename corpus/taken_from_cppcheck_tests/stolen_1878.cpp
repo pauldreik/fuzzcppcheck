@@ -1,0 +1,1 @@
+for( rl=reslist; rl!=NULL; rl=rl->next )

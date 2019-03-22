@@ -1,0 +1,1 @@
+void f ( ) { int n ; n = 1 ; do { ++ n ; } while ( n < 10 ) ; }

@@ -1,0 +1,1 @@
+template < T = typename = > struct a { f <int> }

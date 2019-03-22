@@ -1,0 +1,1 @@
+int foo ( ) { int i; int j; i = 0 && j; return i; }

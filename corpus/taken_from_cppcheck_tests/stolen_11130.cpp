@@ -1,0 +1,1 @@
+template<> class A<int> { A(); ~A(); }; A<int>::A() { } ~A<int>::A() {}

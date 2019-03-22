@@ -1,0 +1,1 @@
+f ( struct { int typedef T x ; } ) { }

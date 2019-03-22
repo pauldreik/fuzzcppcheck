@@ -1,0 +1,1 @@
+void f (int i) { goto label; switch(i) { label: exit(0); } }

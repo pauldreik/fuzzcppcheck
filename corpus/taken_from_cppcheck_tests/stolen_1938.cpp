@@ -1,0 +1,1 @@
+struct true template < > { = } > struct Types "s" ; static_assert < int > ;

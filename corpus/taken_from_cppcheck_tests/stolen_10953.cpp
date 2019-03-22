@@ -1,0 +1,1 @@
+X(template<class T> class Fred);

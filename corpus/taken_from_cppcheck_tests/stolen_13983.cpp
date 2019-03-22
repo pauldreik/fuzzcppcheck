@@ -1,0 +1,1 @@
+void f() { SECTION(".data.ro") const char a[4]; }

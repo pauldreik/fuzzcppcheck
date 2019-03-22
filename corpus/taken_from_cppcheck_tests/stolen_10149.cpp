@@ -1,0 +1,1 @@
+void f(std::initializer_list<int> i) {}

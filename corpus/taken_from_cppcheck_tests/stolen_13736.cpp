@@ -1,0 +1,1 @@
+void f() { MACRO(ab: b=0;, foo)}

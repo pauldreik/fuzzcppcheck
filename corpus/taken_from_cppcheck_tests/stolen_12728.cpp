@@ -1,0 +1,1 @@
+void struct ( ) { if ( 1 ) } int main ( ) { }

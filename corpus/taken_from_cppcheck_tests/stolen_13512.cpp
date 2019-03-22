@@ -1,0 +1,1 @@
+bool b = true ? false : 1 > 2 ;

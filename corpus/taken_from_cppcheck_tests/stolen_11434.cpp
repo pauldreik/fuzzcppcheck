@@ -1,0 +1,1 @@
+template < class T = X > class A : public B , C { } ;

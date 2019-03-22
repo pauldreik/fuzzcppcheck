@@ -1,0 +1,1 @@
+void f() { float f; double d; long double ld; }

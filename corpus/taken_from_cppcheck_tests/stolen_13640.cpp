@@ -1,0 +1,1 @@
+void Test(C<int> && c);

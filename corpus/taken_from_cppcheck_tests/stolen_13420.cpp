@@ -1,0 +1,1 @@
+enum e { VAL1 = 1, VAL2 }; typedef char arr_t[VAL2]; int foo(int) ; void bar () {   throw foo (VAL1); } int baz() {   return sizeof(arr_t); }

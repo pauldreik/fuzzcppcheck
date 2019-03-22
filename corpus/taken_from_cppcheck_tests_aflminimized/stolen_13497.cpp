@@ -1,0 +1,1 @@
+struct S { char *(a); char &(b); const static char *(c); } ;

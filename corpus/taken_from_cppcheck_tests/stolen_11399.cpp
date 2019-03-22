@@ -1,0 +1,1 @@
+struct not { int x; };

@@ -1,0 +1,2 @@
+;int i;
+sizeof(i);

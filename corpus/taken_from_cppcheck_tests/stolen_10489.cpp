@@ -1,0 +1,1 @@
+void f(bool a) { if( !(!a) != !(a) ) {}}

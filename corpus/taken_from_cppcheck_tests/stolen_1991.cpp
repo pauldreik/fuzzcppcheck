@@ -1,0 +1,1 @@
+_lenraw(const char* digits) { } typedef decltype(sizeof(0)) { } operator

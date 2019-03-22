@@ -1,0 +1,1 @@
+extern int *new, obj, player;

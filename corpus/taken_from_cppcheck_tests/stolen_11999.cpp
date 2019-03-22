@@ -1,0 +1,1 @@
+int foo() { return 1; }; sizeof(decltype(foo()));

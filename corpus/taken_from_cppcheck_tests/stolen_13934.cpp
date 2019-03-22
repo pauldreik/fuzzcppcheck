@@ -1,0 +1,1 @@
+void foo ( int b ) { int a = b | 0 ; bar ( a ) ; }

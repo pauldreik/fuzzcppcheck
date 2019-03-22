@@ -1,0 +1,1 @@
+long foo(long x) { return x << 31; }

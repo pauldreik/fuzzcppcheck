@@ -1,0 +1,1 @@
+struct A { signed int x : 3; };

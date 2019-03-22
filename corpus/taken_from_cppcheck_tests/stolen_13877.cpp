@@ -1,0 +1,1 @@
+void foo() { FillMemory(f(1, g(a, b)), h(i, j(0, 1)), 255); }

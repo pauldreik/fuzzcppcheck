@@ -1,0 +1,1 @@
+a __declspec ( dllexport ) b

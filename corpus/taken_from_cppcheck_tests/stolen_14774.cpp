@@ -1,0 +1,3 @@
+struct abc {
+    Fred fred;
+};

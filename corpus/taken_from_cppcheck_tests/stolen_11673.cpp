@@ -1,0 +1,1 @@
+enum class J : short { x, y, z } j{x};

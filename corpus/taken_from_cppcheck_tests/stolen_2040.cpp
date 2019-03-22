@@ -1,0 +1,1 @@
+template < class =( , ) X = 1> struct A {}; A<void> a;

@@ -1,0 +1,1 @@
+std::istream & operator >> (std::istream & s, Fred &f);

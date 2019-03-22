@@ -1,0 +1,1 @@
+ void f() { int a; int use = 0; if( use ) { a=0; } else {a=1;} }

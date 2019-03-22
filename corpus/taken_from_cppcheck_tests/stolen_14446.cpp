@@ -1,0 +1,1 @@
+wchar_t f(int i) { return btowc(i); }

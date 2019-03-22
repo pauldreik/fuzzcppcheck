@@ -1,0 +1,1 @@
+; auto data = new X::Y; int x=1000; x=x/5;

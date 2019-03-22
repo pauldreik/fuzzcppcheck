@@ -1,0 +1,1 @@
+void f () { switch(n) { case 1?0:foo(): break; }}

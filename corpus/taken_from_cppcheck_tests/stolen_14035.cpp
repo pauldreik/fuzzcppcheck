@@ -1,0 +1,1 @@
+int f() {return pow(0,0);}

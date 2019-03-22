@@ -1,0 +1,1 @@
+typedef int (*in_func) (void FAR *, unsigned char FAR * FAR *);

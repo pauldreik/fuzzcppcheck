@@ -1,0 +1,1 @@
+char *s; while (0 == (s=new char[10])) { }

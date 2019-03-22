@@ -1,0 +1,1 @@
+thread_local void *thread_local_var; __thread void *thread_local_var_2;

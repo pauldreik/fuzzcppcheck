@@ -1,0 +1,1 @@
+bool foo(bool x) { return x << 31; }

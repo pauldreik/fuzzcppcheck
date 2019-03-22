@@ -1,0 +1,1 @@
+void foo() {  int bar;  printf("%1$d", 1);  printf("%1$d, %d, %1$d", 1, 2);  scanf("%1$d", &bar);}

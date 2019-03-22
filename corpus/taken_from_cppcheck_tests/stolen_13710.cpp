@@ -1,0 +1,1 @@
+template <class ELFT> class ELFObjectImage {}; ObjectImage *createObjectImage() {   return new ELFObjectImage<ELFType<little>>(Obj); } void resolveX86_64Relocation() {   reinterpret_cast<int>(0); }

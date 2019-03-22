@@ -1,0 +1,1 @@
+void f() const { r = f(a[4] bitor 0x0F, compl c, not d) ; }

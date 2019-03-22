@@ -1,0 +1,1 @@
+class MyObject : public QObject {    Q_OBJECT public slots:};

@@ -1,0 +1,1 @@
+template <int> int f( {  } ); int foo = f<1>(0);

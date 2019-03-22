@@ -1,0 +1,1 @@
+class Foo { Foo(const Foo &f); };

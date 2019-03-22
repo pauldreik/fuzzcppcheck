@@ -1,0 +1,1 @@
+void f() { SECTION(".data.ro") struct ABC abc; }

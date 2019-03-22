@@ -1,0 +1,1 @@
+using mystring = std::string;

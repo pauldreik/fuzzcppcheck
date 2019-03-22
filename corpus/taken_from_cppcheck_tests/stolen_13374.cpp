@@ -1,0 +1,1 @@
+void f(char *p, char *q) {    strcpy(p, "abc");    q = p;}

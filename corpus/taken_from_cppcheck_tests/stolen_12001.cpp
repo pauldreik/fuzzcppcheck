@@ -1,0 +1,1 @@
+char * buf; int a=sizeof(*buf);

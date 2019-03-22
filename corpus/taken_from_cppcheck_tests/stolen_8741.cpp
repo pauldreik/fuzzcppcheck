@@ -1,0 +1,1 @@
+void f(void * x){printf("%Ix", x);}

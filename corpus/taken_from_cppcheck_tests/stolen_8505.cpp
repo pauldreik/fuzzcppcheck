@@ -1,0 +1,1 @@
+void f(float x){printf("%tx", x);}

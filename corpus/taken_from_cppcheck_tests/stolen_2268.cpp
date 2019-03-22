@@ -1,0 +1,1 @@
+void f() { UNKNOWN_MACRO(return); }

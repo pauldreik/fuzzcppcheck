@@ -1,0 +1,1 @@
+long long f(int x) { return (x = (long long)x << 64); }

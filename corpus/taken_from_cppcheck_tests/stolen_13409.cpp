@@ -1,0 +1,1 @@
+void f() { char *p = 0; int result = p && (!*p); }

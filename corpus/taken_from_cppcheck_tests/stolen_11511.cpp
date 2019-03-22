@@ -1,0 +1,1 @@
+void f(int n) { if (n) { exit(0); } foo(); }

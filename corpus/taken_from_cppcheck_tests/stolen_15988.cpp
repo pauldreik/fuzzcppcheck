@@ -1,0 +1,1 @@
+VertexArrayIterator<float[2]> attrPos = m_AttributePos.GetIterator<float[2]>();

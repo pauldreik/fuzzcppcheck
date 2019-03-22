@@ -1,0 +1,1 @@
+template<int N> struct A {}; template<int... Ns> struct foo : A<Ns>... {};

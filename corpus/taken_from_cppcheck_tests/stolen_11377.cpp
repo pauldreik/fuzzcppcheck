@@ -1,0 +1,1 @@
+void foo(A a) {if((a.c=b())>=0);}

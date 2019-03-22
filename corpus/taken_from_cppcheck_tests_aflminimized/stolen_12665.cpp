@@ -1,0 +1,1 @@
+void g(std::map<int, int> m = std::map<int, int>()) { }

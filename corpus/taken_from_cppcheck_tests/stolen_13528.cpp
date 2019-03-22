@@ -1,0 +1,1 @@
+static unsigned int *a=0, *b=0;

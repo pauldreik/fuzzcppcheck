@@ -1,0 +1,1 @@
+int f(int x) { return (x = (int)x << 32); }

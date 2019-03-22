@@ -1,0 +1,1 @@
+typedef unsigned long long u64; void f() { *((u64 *)x) = 0; }

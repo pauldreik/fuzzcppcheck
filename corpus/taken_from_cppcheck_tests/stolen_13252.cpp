@@ -1,0 +1,1 @@
+__asm__ __volatile__ ( "mov ax,bx" );

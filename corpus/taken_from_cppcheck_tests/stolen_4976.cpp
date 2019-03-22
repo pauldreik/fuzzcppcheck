@@ -1,0 +1,1 @@
+void f(){std::uintptr_t x; scanf("%Iu", &x);}

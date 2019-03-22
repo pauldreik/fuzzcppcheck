@@ -1,0 +1,1 @@
+struct A;class B : virtual public C{    int f();};

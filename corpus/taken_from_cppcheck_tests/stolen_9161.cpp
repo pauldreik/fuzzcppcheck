@@ -1,0 +1,1 @@
+void f(uintmax_t x){printf("%I32u", x);}

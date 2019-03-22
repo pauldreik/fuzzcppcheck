@@ -1,0 +1,1 @@
+void fopen(std::string const &filepath, std::string const &mode);

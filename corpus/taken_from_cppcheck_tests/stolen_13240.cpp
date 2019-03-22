@@ -1,0 +1,1 @@
+a + static_cast<int>(b ? 60 : 0);

@@ -1,0 +1,1 @@
+using abc = int; Fred :: abc f ;

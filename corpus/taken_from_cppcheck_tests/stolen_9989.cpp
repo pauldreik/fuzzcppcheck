@@ -1,0 +1,1 @@
+int* f7() { int *x = NULL; return ++x; }

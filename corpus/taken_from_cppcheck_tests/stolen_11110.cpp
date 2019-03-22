@@ -1,0 +1,1 @@
+template<class T> std::string foo() { static str::string str; return str; }

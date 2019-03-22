@@ -1,0 +1,1 @@
+void f() { const char* var = "1" "2"; }

@@ -1,0 +1,1 @@
+void f(){float x; scanf("%I64x", &x);}

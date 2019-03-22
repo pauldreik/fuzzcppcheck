@@ -1,0 +1,1 @@
+void foo(a,b) unsigned int a, b; { }

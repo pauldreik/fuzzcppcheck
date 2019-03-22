@@ -1,0 +1,1 @@
+int f ( int* r ) { {  int s[2] ; f ( s ) ; if ( ) } }

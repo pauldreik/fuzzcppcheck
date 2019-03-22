@@ -1,0 +1,1 @@
+char foo(char x) { return x << 31; }

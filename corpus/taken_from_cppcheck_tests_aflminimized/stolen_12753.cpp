@@ -1,0 +1,1 @@
+struct A::someType A::bar() { return 0; }

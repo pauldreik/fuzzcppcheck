@@ -1,0 +1,1 @@
+enum ABC { A=11,B,C=A+B };

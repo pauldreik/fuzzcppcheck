@@ -1,0 +1,1 @@
+(int arg2) { } { } typedef void (func_type) (int, int); typedef func_type&

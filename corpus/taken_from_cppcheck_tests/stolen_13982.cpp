@@ -1,0 +1,1 @@
+void f() { SECTION(".data.ro") char a[4]; }

@@ -1,0 +1,1 @@
+;std::string (*fp(f))(int);

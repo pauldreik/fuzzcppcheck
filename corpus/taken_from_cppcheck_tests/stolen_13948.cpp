@@ -1,0 +1,1 @@
+class Fred{    Fred(const Fred & f) { operator = (f); }    operator = ();}

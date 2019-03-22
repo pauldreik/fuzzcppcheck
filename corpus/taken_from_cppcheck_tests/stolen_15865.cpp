@@ -1,0 +1,1 @@
+template <typedef A>

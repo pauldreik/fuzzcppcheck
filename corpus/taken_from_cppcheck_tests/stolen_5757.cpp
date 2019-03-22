@@ -1,0 +1,1 @@
+void f(){__int32 x; scanf("%I32d", &x);}

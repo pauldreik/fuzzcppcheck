@@ -1,0 +1,1 @@
+int foo(int) { return 1; }; int a=sizeof(foo(0))

@@ -1,0 +1,1 @@
+struct AB { int a; int b; } *ab; x = ab[1].a;

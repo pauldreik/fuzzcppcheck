@@ -1,0 +1,1 @@
+struct Foo { operator std::string(int a) {} };

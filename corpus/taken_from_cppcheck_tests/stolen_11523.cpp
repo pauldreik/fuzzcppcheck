@@ -1,0 +1,1 @@
+void foo () {    exit(0);    switch (n) {        case a:            {                foo();            }        case b|c:            bar();    }}

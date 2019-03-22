@@ -1,0 +1,1 @@
+short values[10]; void f() { for (const auto *x : values); }

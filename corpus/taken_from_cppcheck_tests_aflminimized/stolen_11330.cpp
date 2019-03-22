@@ -1,0 +1,1 @@
+int m ; compat_ulong_t um ; long size ; size = sizeof ( m ) / sizeof ( um ) ;

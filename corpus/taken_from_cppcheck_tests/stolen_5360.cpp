@@ -1,0 +1,1 @@
+void f(){signed int x; scanf("%I64x", &x);}

@@ -1,0 +1,1 @@
+unsigned short f(unsigned short x) { return x << 33; }

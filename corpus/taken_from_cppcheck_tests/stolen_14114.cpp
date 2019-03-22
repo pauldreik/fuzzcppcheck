@@ -1,0 +1,1 @@
+typedef std::map<int,int> mymap; a ? mymap() : 0;

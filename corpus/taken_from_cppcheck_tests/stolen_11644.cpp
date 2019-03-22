@@ -1,0 +1,1 @@
+class ABC { class DEF {} def; } abc;

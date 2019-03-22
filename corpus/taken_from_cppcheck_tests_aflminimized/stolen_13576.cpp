@@ -1,0 +1,1 @@
+function<void (shared_ptr<MyClass>)> v;

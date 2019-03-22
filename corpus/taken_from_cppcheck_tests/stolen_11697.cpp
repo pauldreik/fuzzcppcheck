@@ -1,0 +1,1 @@
+int __syscall f();

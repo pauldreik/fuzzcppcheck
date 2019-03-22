@@ -1,0 +1,1 @@
+using namespace std; struct T { typedef int type; } ; enum struct Type : T :: type { f = 0 , string } ;

@@ -1,0 +1,1 @@
+while(fclose(f))foo();

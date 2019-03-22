@@ -1,0 +1,1 @@
+{ }; void namespace A::f; { g() { int } }

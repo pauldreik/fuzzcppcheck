@@ -1,0 +1,1 @@
+void f(double x){printf("%ju", x);}

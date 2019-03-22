@@ -1,0 +1,1 @@
+struct Fred { template<typename T> Foo & operator=(const Foo &) { return *this; } };

@@ -1,0 +1,1 @@
+class A { std::vector<int*> ints; };

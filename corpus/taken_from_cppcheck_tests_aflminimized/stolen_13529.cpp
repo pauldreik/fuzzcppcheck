@@ -1,0 +1,1 @@
+static int large_eeprom_type = (13 | (5)), default_flash_type = 42;

@@ -1,0 +1,1 @@
+short f(short x) { return x << 33; }

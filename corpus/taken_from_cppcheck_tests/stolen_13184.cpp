@@ -1,0 +1,1 @@
+class name { public: static void init ( ) {} } ; typedef class name N; void foo ( ) { return N :: init ( ) ; }

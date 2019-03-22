@@ -1,0 +1,1 @@
+using namespace std; enum struct Type { string } ;

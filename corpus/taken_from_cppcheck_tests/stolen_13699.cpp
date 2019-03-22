@@ -1,0 +1,1 @@
+int __attribute((mode(SI))) __attribute((vector_size (16))) vecint;

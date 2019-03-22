@@ -1,0 +1,1 @@
+void lzma_decode(int i) {   bool state;   switch (i)   while (true) {      state=false;    case 1:       ;   }}

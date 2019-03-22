@@ -1,0 +1,1 @@
+template <T> class Foo { Foo(Foo<T>& f); };

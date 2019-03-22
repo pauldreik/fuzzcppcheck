@@ -1,0 +1,1 @@
+void f(){signed long x; scanf("%Ix", &x);}

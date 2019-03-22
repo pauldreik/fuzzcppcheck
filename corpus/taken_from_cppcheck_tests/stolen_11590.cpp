@@ -1,0 +1,1 @@
+; std::strncat(a,b,10);

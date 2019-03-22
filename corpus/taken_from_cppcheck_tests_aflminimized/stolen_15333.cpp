@@ -1,0 +1,1 @@
+x = static_cast<int>(10);

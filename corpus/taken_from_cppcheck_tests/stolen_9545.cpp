@@ -1,0 +1,1 @@
+void f() {  int *a = HeapAlloc(GetProcessHeap(), 0, sizeof(int));  int *b = HeapAlloc(GetProcessHeap(), 0, sizeof(int));  HeapFree(GetProcessHeap(), 0, a);  HeapFree(GetProcessHeap(), 0, b);}

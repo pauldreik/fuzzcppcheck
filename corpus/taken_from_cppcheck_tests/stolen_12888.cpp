@@ -1,0 +1,1 @@
+(unsigned int)1 + (signed int)2;

@@ -1,0 +1,1 @@
+void blah() {    Bar bar(*x);}

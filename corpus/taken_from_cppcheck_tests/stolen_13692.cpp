@@ -1,0 +1,1 @@
+struct __declspec(uuid("00000000-0000-0000-c000-000000000046")) IUnknown;

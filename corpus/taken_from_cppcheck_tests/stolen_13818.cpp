@@ -1,0 +1,1 @@
+struct A { UINT64 x : 3; };

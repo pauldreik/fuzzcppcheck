@@ -1,0 +1,1 @@
+void test() { c.f(7); T3 &t3 = c; }

@@ -1,0 +1,1 @@
+void f(const char *a,const char *b, const char *c){g(sizeof(a),sizeof(b),sizeof(c));}

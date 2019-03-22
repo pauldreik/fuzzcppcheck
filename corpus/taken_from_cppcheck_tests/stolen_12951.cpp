@@ -1,0 +1,1 @@
+a = static_cast<char>(32);

@@ -1,0 +1,1 @@
+const int x = (unsigned int)(-1) >> 2;

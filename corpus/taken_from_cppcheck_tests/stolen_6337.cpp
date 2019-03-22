@@ -1,0 +1,1 @@
+void f(){signed short x; scanf("%n", &x);}

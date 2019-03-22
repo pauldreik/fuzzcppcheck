@@ -1,0 +1,1 @@
+void foo (int **p) { { { };>= } } unsigned *d = (b b--) --*d

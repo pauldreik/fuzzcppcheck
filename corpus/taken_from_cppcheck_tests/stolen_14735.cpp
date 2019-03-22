@@ -1,0 +1,1 @@
+void __attribute__((destructor)) f() {}

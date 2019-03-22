@@ -1,0 +1,1 @@
+template<class T> unsigned foo() { return 0; }

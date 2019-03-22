@@ -1,0 +1,14 @@
+using S = union s;
+using PS = S *;
+using T = union t { int a; float b ; };
+using TP = T *;
+using U = union { int a; float b; };
+using V = U *;
+using W = union { int a; float b; } *;
+S s;
+PS ps;
+T t;
+TP tp;
+U u;
+V v;
+W w;

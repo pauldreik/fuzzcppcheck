@@ -1,0 +1,1 @@
+template <class T, class U> struct A {}; enum { e = sizeof(A<int, int>) }; template <class T, class U> struct B {};

@@ -1,0 +1,1 @@
+int* f9() { int *x = NULL; return x--; }

@@ -1,0 +1,1 @@
+module ( a , a , sizeof ( a ) , 0444 ) ;

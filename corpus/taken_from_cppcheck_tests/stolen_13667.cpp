@@ -1,0 +1,1 @@
+void foo(char *c) { if (1==(1 & c[0])) {} }

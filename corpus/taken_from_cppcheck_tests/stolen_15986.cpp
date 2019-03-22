@@ -1,0 +1,1 @@
+std::map<int, FooTemplate<int>*> dummy_member[1];

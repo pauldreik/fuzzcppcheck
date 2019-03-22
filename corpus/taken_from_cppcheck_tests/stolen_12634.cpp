@@ -1,0 +1,1 @@
+class Foo { class Sub; }; class Foo::Sub { Sub() {} };

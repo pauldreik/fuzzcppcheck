@@ -1,0 +1,1 @@
+bool f(int i) { switch (i) { case 10 + 5: return true; } }

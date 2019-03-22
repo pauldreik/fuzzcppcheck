@@ -1,0 +1,1 @@
+void f(){size_t x; scanf("%Ix", &x);}

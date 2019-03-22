@@ -1,0 +1,1 @@
+__forceinline int foo ( ) { }

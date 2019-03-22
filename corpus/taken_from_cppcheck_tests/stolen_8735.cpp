@@ -1,0 +1,1 @@
+void f(long double x){printf("%Ix", x);}

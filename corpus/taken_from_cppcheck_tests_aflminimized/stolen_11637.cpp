@@ -1,0 +1,1 @@
+void f() { class : foo<int> { } abc; }

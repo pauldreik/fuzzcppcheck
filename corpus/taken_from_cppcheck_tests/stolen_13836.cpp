@@ -1,0 +1,1 @@
+struct A { unsigned int x : 1; };

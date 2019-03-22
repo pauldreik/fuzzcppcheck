@@ -1,0 +1,1 @@
+struct A { const unsigned long x : 3; };

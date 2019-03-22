@@ -1,0 +1,1 @@
+template<typename X, typename...Y> struct S : public Fred<Wilma<Y...>> {}

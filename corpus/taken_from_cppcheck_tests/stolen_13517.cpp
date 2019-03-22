@@ -1,0 +1,1 @@
+void f() { char * p = foo<10,char>(); }

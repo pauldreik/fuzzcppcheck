@@ -1,0 +1,1 @@
+typedef struct Descriptor {    unsigned element_size: 8* sizeof( unsigned );} Descriptor;

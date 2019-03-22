@@ -1,0 +1,1 @@
+void f(long double x){printf("%I32x", x);}

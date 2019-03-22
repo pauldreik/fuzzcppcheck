@@ -1,0 +1,1 @@
+int (*d(a,b,c))()int a,b,c; { }

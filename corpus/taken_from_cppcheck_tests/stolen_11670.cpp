@@ -1,0 +1,1 @@
+enum G : short { x, y, z } g(x);

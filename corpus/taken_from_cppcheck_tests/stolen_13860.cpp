@@ -1,0 +1,1 @@
+using namespace std; enum Type { a , b } ; void foo ( enum Type , string) {}

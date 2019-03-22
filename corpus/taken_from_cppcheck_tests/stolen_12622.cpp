@@ -1,0 +1,1 @@
+class Fred { auto func() -> int { } };

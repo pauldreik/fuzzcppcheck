@@ -1,0 +1,1 @@
+struct S3 : public S1, public S2 { };

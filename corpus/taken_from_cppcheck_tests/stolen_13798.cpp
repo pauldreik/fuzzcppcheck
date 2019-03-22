@@ -1,0 +1,1 @@
+struct A { signed __int64 x : 3; };

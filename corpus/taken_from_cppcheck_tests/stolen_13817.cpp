@@ -1,0 +1,1 @@
+struct A { UINT32 x : 3; };

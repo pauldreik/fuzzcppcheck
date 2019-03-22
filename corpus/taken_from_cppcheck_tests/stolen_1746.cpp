@@ -1,0 +1,4 @@
+int f()
+{
+    foobar::getpwent();
+}

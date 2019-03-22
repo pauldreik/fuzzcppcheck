@@ -1,0 +1,1 @@
+[](int a, int b) constexpr { return a + b }

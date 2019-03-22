@@ -1,0 +1,20 @@
+void foo() {
+    std::cout<<pow(sin(x),2)+pow(cos(x),2);
+    std::cout<<pow(sin(pow(sin(y),2)+pow(cos(y),2)),2)+pow(cos(pow(sin(y),2)+pow(cos(y),2)),2);
+    std::cout<<pow(sin(x),2.0)+pow(cos(x),2.0);
+    std::cout<<pow(sin(x*y+z),2.0)+pow(cos(x*y+z),2.0);
+    std::cout<<pow(sin(x*y+z),2)+pow(cos(x*y+z),2);
+    std::cout<<pow(cos(x),2)+pow(sin(x),2);
+    std::cout<<pow(cos(x),2.0)+pow(sin(x),2.0);
+    std::cout<<pow(cos(x*y+z),2.0)+pow(sin(x*y+z),2.0);
+    std::cout<<pow(cos(x*y+z),2)+pow(sin(x*y+z),2);
+    std::cout<<pow(sinh(x*y+z),2)-pow(cosh(x*y+z),2);
+    std::cout<<pow(sinh(x),2)-pow(cosh(x),2);
+    std::cout<<pow(sinh(x*y+z),2.0)-pow(cosh(x*y+z),2.0);
+    std::cout<<pow(sinh(x),2.0)-pow(cosh(x),2.0);
+    std::cout<<pow(cosh(x*y+z),2)-pow(sinh(x*y+z),2);
+    std::cout<<pow(cosh(x),2)-pow(sinh(x),2);
+    std::cout<<pow(cosh(x*y+z),2.0)-pow(sinh(x*y+z),2.0);
+    std::cout<<pow(cosh(x),2.0)-pow(sinh(x),2.0);
+    std::cout<<pow(cosh(pow(x,1)),2.0)-pow(sinh(pow(x,1)),2.0);
+}

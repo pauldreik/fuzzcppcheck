@@ -1,0 +1,1 @@
+void f() { union {int x; char *p;} a={0}; }

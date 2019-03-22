@@ -1,0 +1,1 @@
+() template < T = typename = x > struct a {} { f <int> () }

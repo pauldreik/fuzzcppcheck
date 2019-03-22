@@ -1,0 +1,1 @@
+void f(){char x; scanf("%I32x", &x);}

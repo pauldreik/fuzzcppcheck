@@ -1,0 +1,1 @@
+enum { val = 1{ }; { const} }; { } Bar { const int A = val const } ;

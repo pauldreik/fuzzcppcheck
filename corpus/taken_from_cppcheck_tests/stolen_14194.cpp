@@ -1,0 +1,1 @@
+signed int f(int x) { return (x = (signed int)x << 32); }

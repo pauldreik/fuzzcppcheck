@@ -1,0 +1,1 @@
+template<typename, unsigned = 0> struct extent;

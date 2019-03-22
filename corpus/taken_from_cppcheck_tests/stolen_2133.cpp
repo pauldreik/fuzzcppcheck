@@ -1,0 +1,1 @@
+template<class... T> struct A {   static int i; }; void f() { A<int>::i = 0; }

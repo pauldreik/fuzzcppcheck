@@ -1,0 +1,1 @@
+void f() { if (foo() and q) ; }

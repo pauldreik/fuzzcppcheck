@@ -1,0 +1,1 @@
+void __attribute__((constructor(1000))) f() {}

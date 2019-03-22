@@ -1,0 +1,1 @@
+int f4(int a) {return (a == 1) ? 1 : 1; }

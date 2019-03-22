@@ -1,0 +1,1 @@
+struct Object { ( ) ; Object & operator= ( Object ) { ( ) { } if ( this != & b ) } }

@@ -1,0 +1,1 @@
+struct RGB { unsigned int r : 3, g : 3, b : 2; };

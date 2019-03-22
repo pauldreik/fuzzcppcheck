@@ -1,0 +1,1 @@
+START_SECTION([EXTRA](bool isValid(const String &filename)))

@@ -1,0 +1,1 @@
+void f ( ) { int i=0; do { if (i>0) { a(); } i=b(); } while (i != 12); }

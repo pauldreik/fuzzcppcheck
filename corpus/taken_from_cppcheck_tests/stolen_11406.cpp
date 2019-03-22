@@ -1,0 +1,1 @@
+void f() { if (p and bar()) ; }

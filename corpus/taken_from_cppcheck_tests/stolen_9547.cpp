@@ -1,0 +1,1 @@
+void f() {  HANDLE MyHeap = HeapCreate(0, 0, 0);  int *a = HeapAlloc(MyHeap, 0, sizeof(int));  int *b = HeapAlloc(MyHeap, 0, sizeof(int));  HeapFree(MyHeap, 0, a);  HeapFree(MyHeap, 0, b);}

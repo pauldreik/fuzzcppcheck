@@ -1,0 +1,1 @@
+typedef char Str[10]; int x = sizeof(Str);

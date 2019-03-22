@@ -1,0 +1,1 @@
+void f(){std::uintmax_t x; scanf("%I32u", &x);}

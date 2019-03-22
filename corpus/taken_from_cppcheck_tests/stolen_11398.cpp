@@ -1,0 +1,1 @@
+void f() { a = not(p && q); }

@@ -1,0 +1,1 @@
+struct A { virtual void f() {} int f1 : 1; };

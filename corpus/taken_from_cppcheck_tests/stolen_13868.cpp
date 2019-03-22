@@ -1,0 +1,1 @@
+void foo() { int a[10]; RtlFillBytes(a, sizeof(a), 255); }

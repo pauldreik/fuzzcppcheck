@@ -1,0 +1,1 @@
+X<char, int(*)(), bool> x;

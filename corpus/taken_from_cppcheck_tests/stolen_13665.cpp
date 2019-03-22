@@ -1,0 +1,1 @@
+void printOwnedAttributes(int mode) {   switch(mode) case 0: { break; } case 1: ; }

@@ -1,0 +1,2 @@
+class foo;
+int bar;

@@ -1,0 +1,1 @@
+[](int a, int b) mutable { return a + b }

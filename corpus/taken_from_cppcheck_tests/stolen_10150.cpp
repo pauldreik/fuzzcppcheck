@@ -1,0 +1,1 @@
+void log(const std::string& file, int line, const std::string& function, const std::string str, ...) {}

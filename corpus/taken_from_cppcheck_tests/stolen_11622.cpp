@@ -1,0 +1,1 @@
+static struct {int a;} const array[3] = {0};

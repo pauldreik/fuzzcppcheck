@@ -1,0 +1,1 @@
+register short int var ;

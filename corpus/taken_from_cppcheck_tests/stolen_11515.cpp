@@ -1,0 +1,1 @@
+void f() { MACRO(exit(0)) }

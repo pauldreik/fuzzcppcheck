@@ -1,0 +1,1 @@
+struct X {   typedef struct { int p; } P_t;   static int arr[]; }; int X::arr[] = {42}; void f() {   std::vector<X::P_t> result;   X::P_t P;   P.p = 0;   result.push_back(P); }

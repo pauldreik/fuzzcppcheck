@@ -1,0 +1,1 @@
+void f(std::unique_ptr<std::string> ptr) {}

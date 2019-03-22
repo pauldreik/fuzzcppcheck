@@ -1,0 +1,1 @@
+sizeof(void * const)

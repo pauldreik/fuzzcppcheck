@@ -1,0 +1,1 @@
+std::string get_endpoint_url() const noexcept override;

@@ -1,0 +1,1 @@
+void f(char x){printf("%I32x", x);}

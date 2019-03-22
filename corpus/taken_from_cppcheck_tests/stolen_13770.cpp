@@ -1,0 +1,1 @@
+const bool x(true);const bool y(!x);f(y);

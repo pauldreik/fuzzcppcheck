@@ -1,0 +1,1 @@
+struct A { bool x : 1; };

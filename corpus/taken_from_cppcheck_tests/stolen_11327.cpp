@@ -1,0 +1,1 @@
+void f(char *a[10],char *b[10], char *c[10]){g(sizeof(a),sizeof(b),sizeof(c));}

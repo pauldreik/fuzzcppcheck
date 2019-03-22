@@ -1,0 +1,1 @@
+const_cast<int *>(code)[0] = 0;

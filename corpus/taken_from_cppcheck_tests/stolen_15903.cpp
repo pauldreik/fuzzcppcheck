@@ -1,0 +1,1 @@
+void fred(int x) noexcept ( false ) {}void wilma() { x++; }

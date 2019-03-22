@@ -1,0 +1,1 @@
+reinterpret_cast <char *> (code)[0] = 0;

@@ -1,0 +1,1 @@
+void foo() {     switch ( t ) {     case 0:          if ( t ) switch ( b ) {}          break;     case 1:          exit(0);          return 0;     }     return 0;}

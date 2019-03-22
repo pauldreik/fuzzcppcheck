@@ -1,0 +1,1 @@
+class A { explicit A(const A&); };

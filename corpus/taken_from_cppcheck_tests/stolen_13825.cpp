@@ -1,0 +1,1 @@
+void f(int a) { switch (a) { case b: break; } }

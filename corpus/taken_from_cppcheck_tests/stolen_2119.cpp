@@ -1,0 +1,1 @@
+( ) template < T1 = typename = unused> struct Args { } main ( ) { foo < int > ( ) ; }

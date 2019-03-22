@@ -1,0 +1,1 @@
+template<> unsigned A<int, v<char> >::foo() { return 0; }

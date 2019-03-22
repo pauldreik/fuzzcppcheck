@@ -1,0 +1,1 @@
+void f(){signed int x; scanf("%u", &x);}

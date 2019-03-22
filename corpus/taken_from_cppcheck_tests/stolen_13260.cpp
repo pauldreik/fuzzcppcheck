@@ -1,0 +1,1 @@
+asm { mov ax,bx } int a;

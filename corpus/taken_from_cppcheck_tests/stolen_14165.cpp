@@ -1,0 +1,1 @@
+bool f(bool x) { return x << 33; }

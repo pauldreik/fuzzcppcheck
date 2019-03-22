@@ -1,0 +1,1 @@
+unsigned long a = sizeof('x');

@@ -1,0 +1,1 @@
+int f() { memset(a,b,sizeof(a)!=0); }

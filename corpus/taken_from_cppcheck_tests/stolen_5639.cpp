@@ -1,0 +1,1 @@
+void f(){unsigned short x; scanf("%I32x", &x);}

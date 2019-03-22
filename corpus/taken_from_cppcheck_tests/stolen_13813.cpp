@@ -1,0 +1,1 @@
+struct A { DWORD x : 3; };

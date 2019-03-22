@@ -1,0 +1,1 @@
+struct A { private: int x : 3; };

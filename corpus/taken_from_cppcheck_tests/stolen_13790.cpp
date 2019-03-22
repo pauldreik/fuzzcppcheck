@@ -1,0 +1,1 @@
+struct A { unsigned __int64 x : 3; };

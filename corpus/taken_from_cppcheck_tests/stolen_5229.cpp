@@ -1,0 +1,1 @@
+void f(){signed short x; scanf("%I64u", &x);}

@@ -1,0 +1,1 @@
+[[maybe_unused]] int f([[maybe_unused]] int i);

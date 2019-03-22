@@ -1,0 +1,1 @@
+class Map<String,Entry>::Entry* e;

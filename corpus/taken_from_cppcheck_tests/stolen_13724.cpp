@@ -1,0 +1,1 @@
+void f() { ab: (*func)(); }

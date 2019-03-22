@@ -1,0 +1,1 @@
+return (end - source) / sizeof(encode_block_type) * sizeof(encode_block_type);

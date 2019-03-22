@@ -1,0 +1,1 @@
+struct S { }; S s; S s1(&s);

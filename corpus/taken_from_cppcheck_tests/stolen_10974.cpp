@@ -1,0 +1,1 @@
+template<class T> struct StackContainer {  void foo(int i) {    if (0 >= 1 && i<0) {}  }};template<class T> class ZContainer : public StackContainer<T> {};struct FGSTensor {};class FoldedZContainer : public ZContainer<FGSTensor> {};

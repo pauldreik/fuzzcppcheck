@@ -1,0 +1,1 @@
+foo(sizeof(uint32_t), sizeof(std::uint32_t));

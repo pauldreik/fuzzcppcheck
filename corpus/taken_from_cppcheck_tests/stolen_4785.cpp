@@ -1,0 +1,1 @@
+void f(){void * x; scanf("%tx", &x);}

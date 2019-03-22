@@ -1,0 +1,1 @@
+" " typedef signed char f; " "; void a() { f * s = () &[]; (; ) (; ) }

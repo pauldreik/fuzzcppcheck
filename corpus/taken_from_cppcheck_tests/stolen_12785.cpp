@@ -1,0 +1,1 @@
+template class boost::token_iterator_generator<boost::offset_separator>::type; void foo() { }

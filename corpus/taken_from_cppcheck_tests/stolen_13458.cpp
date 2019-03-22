@@ -1,0 +1,1 @@
+void foo(){    if (x)        int x;    { }}

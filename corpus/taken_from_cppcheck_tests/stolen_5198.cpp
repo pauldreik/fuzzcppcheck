@@ -1,0 +1,1 @@
+void f(){std::ssize_t x; scanf("%Id", &x);}

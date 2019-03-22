@@ -1,0 +1,1 @@
+void f(const std::map<std::string,int> v) {}

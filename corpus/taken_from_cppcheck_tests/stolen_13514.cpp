@@ -1,0 +1,1 @@
+const struct A { int a; int b; } a;

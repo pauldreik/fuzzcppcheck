@@ -1,0 +1,1 @@
+void f(){uintptr_t x; scanf("%Ix", &x);}

@@ -1,0 +1,1 @@
+class A; template <class T> class Disposer; template <typename T, class D = Disposer<T>> class Shim {}; class B : public Shim<A> {};

@@ -1,0 +1,1 @@
+void f(struct S *s) { x = s->and + 1; }

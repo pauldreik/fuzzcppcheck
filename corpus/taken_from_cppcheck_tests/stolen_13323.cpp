@@ -1,0 +1,1 @@
+void f ( ) { char *s = malloc(100);mp_ptr p = s; p++; }

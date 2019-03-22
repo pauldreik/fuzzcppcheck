@@ -1,0 +1,1 @@
+int f8(int a) {return (a == (int)1) ? 1 : 1; }

@@ -1,0 +1,1 @@
+;char *p; (delete(p), (p)=0);

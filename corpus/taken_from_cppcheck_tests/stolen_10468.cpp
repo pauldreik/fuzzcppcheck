@@ -1,0 +1,1 @@
+int f2(int a) {return (a == 1) ? (int)1 : (int)1; }

@@ -1,0 +1,1 @@
+void foo(){    free(((void*)p));}

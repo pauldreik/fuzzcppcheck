@@ -1,0 +1,1 @@
+class A{ template<typename T> int foo(T d);};

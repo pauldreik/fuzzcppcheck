@@ -1,0 +1,1 @@
+;while((x=f())==-1 && errno==EINTR){}

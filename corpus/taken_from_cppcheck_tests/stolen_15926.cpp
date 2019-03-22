@@ -1,0 +1,1 @@
+x = sizeof(a*b);

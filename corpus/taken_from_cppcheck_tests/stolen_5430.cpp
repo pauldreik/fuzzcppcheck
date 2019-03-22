@@ -1,0 +1,1 @@
+void f(){intptr_t x; scanf("%I64x", &x);}

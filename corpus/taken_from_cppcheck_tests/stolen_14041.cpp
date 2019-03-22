@@ -1,0 +1,1 @@
+float f(float f) { return fmax(f,0);}

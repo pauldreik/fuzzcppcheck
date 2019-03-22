@@ -1,0 +1,1 @@
+template<typename... T> struct A {   static const int s = 0; }; A<int> a;

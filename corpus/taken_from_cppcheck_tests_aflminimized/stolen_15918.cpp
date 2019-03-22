@@ -1,0 +1,1 @@
+std::bitset<static_cast<int>(2)> x;

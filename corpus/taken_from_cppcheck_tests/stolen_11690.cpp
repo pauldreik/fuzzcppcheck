@@ -1,0 +1,1 @@
+auto int i = 0;

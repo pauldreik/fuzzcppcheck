@@ -1,0 +1,1 @@
+struct S { }; struct S s; struct S *p(&s);

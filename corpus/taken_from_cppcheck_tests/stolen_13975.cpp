@@ -1,0 +1,1 @@
+; AB(foo*) foo::foo() { }

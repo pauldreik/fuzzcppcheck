@@ -1,0 +1,1 @@
+enum class I : short { x, y, z } i(x);

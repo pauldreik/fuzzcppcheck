@@ -1,0 +1,1 @@
+char buf[100] ; readlink(path, &buf[0], 99);

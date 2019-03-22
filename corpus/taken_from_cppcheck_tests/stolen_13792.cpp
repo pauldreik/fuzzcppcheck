@@ -1,0 +1,1 @@
+struct A { signed short x : 3; };

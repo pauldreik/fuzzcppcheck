@@ -1,0 +1,1 @@
+class MyObject : public QObject {    MyObject() {}    ~MyObject() {}    public slots:    signals:        void test() {}};

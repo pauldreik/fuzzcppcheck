@@ -1,0 +1,1 @@
+void f(double x){printf("%I64x", x);}

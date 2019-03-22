@@ -1,0 +1,1 @@
+const int a[20]; x = a + 1;

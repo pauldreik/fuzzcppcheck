@@ -1,0 +1,1 @@
+enum { int f ( ) { return = } r = f ( ) ; }

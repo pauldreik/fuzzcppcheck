@@ -1,0 +1,1 @@
+void f(bool x){printf("%zx", x);}

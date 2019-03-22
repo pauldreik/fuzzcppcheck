@@ -1,0 +1,1 @@
+void foo() { do { goto label; } while (0); }

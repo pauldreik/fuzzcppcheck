@@ -1,0 +1,1 @@
+while(fclose(f)); while(fclose(g));

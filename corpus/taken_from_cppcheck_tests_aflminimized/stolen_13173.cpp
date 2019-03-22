@@ -1,0 +1,1 @@
+class x { protected : template < int y = } ;

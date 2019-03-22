@@ -1,0 +1,1 @@
+int f() { switch (x) { case 1: exit(0); bar(); tack; { ticak(); exit(0) } exit(0);case 2: exit(0); { random(); } tack(); switch(y) { case 1: exit(0); case 2: exit(0); } exit(0); } exit(0); }

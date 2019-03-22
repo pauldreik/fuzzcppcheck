@@ -1,0 +1,1 @@
+; auto data = new int[100];

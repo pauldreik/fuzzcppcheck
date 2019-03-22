@@ -1,0 +1,1 @@
+short f(int x) { return (x = (short)x << 32); }

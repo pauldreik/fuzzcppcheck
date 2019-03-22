@@ -1,0 +1,1 @@
+unsigned char f(int x) { return (x = (unsigned char)x << 32); }

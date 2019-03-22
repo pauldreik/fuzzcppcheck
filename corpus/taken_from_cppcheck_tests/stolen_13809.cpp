@@ -1,0 +1,1 @@
+struct A { CHAR x : 3; };

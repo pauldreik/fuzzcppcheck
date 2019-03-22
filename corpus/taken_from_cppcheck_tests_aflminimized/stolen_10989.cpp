@@ -1,0 +1,1 @@
+template<bool B> struct Foo {   std::array<int, B ? 1 : 2> mfoo; }; void foo() {   Foo<true> myFoo; }

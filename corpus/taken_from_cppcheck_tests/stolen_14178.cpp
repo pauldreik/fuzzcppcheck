@@ -1,0 +1,1 @@
+signed char f(int x) { return (x = (signed char)x << 32); }

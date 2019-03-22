@@ -1,0 +1,1 @@
+[](void) foo -> int { return -1 }

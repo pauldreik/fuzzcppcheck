@@ -1,0 +1,1 @@
+void f(){long double x; scanf("%I32u", &x);}

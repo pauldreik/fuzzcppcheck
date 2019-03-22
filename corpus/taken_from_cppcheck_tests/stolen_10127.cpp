@@ -1,0 +1,1 @@
+void f(const std::pair<int,int> x) {}

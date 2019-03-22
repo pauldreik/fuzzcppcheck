@@ -1,0 +1,1 @@
+class Foo {}; class Bar1 { friend class Foo; }; class Bar2 { friend Foo; };

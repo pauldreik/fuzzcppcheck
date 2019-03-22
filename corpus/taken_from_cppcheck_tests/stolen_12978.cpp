@@ -1,0 +1,1 @@
+enum E : long { }; void foo() { E e[3]; bar(e[0]); }

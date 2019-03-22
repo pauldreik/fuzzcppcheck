@@ -1,0 +1,1 @@
+void f() { for each ( char c in MyString ) { Console::Write(c); } }

@@ -1,0 +1,1 @@
+std::hash<decltype(t._data)>()(t._data);

@@ -1,0 +1,1 @@
+{ template <a> class b { } template <> template <c> c() b<a>::e() { } template b<d>; }

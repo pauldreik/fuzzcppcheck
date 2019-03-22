@@ -1,0 +1,1 @@
+foo(Args&&...) fn void = { } auto template<typename... bar(Args&&...)

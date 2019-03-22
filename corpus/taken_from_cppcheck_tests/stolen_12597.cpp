@@ -1,0 +1,1 @@
+std::string const* s;

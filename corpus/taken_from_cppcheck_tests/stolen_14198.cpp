@@ -1,0 +1,1 @@
+long f(int x) { return (x = (long)x << 32); }

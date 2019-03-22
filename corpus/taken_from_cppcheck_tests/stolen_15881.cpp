@@ -1,0 +1,1 @@
+union evt; void f(const evt & event);

@@ -1,0 +1,1 @@
+enum AB {A,B}; enum AB *ab; x=ab+2;

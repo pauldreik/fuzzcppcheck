@@ -1,0 +1,1 @@
+int a() {    int x = 123;    return (x);}

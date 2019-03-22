@@ -1,0 +1,1 @@
+auto a(int) -> int; a(5);

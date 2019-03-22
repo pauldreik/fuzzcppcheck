@@ -1,0 +1,1 @@
+MACRO(test) void test() { auto x = (int*)y; }

@@ -1,0 +1,1 @@
+typedef std::pair<int(*)(void*), void*> Func;typedef std::vector<Func> CallQueue;int main() {}

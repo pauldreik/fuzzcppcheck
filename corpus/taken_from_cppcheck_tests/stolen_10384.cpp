@@ -1,0 +1,1 @@
+void f(long x) { if ((int32_t)x == (int64_t)x) {} }

@@ -1,0 +1,1 @@
+void f(const std::shared_ptr<std::string> ptr) {}

@@ -1,0 +1,1 @@
+void f(ptrdiff_t x){printf("%I32x", x);}

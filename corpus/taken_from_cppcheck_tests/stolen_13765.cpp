@@ -1,0 +1,1 @@
+class A { } ; A a; int foo(a);

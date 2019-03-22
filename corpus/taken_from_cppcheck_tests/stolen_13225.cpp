@@ -1,0 +1,1 @@
+int v1; f((double)(v1)*v2)

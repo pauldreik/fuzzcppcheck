@@ -1,0 +1,1 @@
+class Fred { Fred& operator<(int); }; void f() { Fred fred; x=fred<123; }

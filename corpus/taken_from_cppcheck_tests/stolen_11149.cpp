@@ -1,0 +1,1 @@
+template<typename = void> struct s;

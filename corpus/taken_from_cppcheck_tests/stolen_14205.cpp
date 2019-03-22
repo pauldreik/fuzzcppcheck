@@ -1,0 +1,1 @@
+unsigned long long foo(unsigned long long x) { return x << 64; }

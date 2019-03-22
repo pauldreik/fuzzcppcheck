@@ -1,0 +1,1 @@
+struct C { int i; } c{0};

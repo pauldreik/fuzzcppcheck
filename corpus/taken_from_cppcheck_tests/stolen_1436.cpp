@@ -1,0 +1,1 @@
+class Fred { int x[1]={0}; };

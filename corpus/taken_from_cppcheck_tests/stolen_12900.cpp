@@ -1,0 +1,1 @@
+signed x; a = x + 1;

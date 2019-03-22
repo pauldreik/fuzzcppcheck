@@ -1,0 +1,1 @@
+str=(char **)malloc(3)

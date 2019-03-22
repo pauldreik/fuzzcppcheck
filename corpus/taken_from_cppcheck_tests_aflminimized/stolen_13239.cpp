@@ -1,0 +1,1 @@
+bar((const X**)&ptr);

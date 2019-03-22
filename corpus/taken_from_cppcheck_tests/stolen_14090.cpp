@@ -1,0 +1,20 @@
+void foo() {
+    std::cout<<powf(sinf(x),2)+powf(cosf(x),2);
+    std::cout<<powf(sinf(powf(sinf(y),2)+powf(cosf(y),2)),2)+powf(cosf(powf(sinf(y),2)+powf(cosf(y),2)),2);
+    std::cout<<powf(sinf(x),2.0)+powf(cosf(x),2.0);
+    std::cout<<powf(sinf(x*y+z),2.0)+powf(cosf(x*y+z),2.0);
+    std::cout<<powf(sinf(x*y+z),2)+powf(cosf(x*y+z),2);
+    std::cout<<powf(cosf(x),2)+powf(sinf(x),2);
+    std::cout<<powf(cosf(x),2.0)+powf(sinf(x),2.0);
+    std::cout<<powf(cosf(x*y+z),2.0)+powf(sinf(x*y+z),2.0);
+    std::cout<<powf(cosf(x*y+z),2)+powf(sinf(x*y+z),2);
+    std::cout<<powf(sinhf(x*y+z),2)-powf(coshf(x*y+z),2);
+    std::cout<<powf(sinhf(x),2)-powf(coshf(x),2);
+    std::cout<<powf(sinhf(x*y+z),2.0)-powf(coshf(x*y+z),2.0);
+    std::cout<<powf(sinhf(x),2.0)-powf(coshf(x),2.0);
+    std::cout<<powf(coshf(x*y+z),2)-powf(sinhf(x*y+z),2);
+    std::cout<<powf(coshf(x),2)-powf(sinhf(x),2);
+    std::cout<<powf(coshf(x*y+z),2.0)-powf(sinhf(x*y+z),2.0);
+    std::cout<<powf(coshf(x),2.0)-powf(sinhf(x),2.0);
+    std::cout<<powf(coshf(powf(x,1)),2.0)-powf(sinhf(powf(x,1)),2.0);
+}

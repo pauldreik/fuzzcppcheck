@@ -1,0 +1,1 @@
+void f(){unsigned long x; scanf("%I32u", &x);}

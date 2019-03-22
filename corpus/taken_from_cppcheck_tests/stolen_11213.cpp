@@ -1,0 +1,1 @@
+if ((unsigned char)1)

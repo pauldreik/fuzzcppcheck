@@ -1,0 +1,1 @@
+;do { } while((current=f()) != NULL);

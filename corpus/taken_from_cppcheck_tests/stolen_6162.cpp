@@ -1,0 +1,1 @@
+void f(){long double x; scanf("%lf", &x);}

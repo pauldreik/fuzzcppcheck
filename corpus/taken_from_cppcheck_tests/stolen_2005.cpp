@@ -1,0 +1,1 @@
+p("Hello " 14) _yn(const size_t) typedef bool pfunk (*pfunk)(const size_t)

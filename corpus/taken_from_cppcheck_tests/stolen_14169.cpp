@@ -1,0 +1,1 @@
+unsigned short f(int x) { return (x = (unsigned short)x << 32); }

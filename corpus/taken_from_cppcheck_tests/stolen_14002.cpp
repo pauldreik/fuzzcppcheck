@@ -1,0 +1,1 @@
+LPCVOID a; ::LPCVOID b; foo::LPCVOID c;

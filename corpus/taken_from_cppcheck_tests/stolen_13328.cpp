@@ -1,0 +1,1 @@
+void foo(int i) { int n = i; for (i = 0; i < n; ++i) { } }

@@ -1,0 +1,1 @@
+void f() { int *p, *q; p = q; }

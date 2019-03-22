@@ -1,0 +1,1 @@
+void f() { if (a or b); }

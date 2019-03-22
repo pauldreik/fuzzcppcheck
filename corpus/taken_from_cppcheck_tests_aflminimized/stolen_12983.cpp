@@ -1,0 +1,1 @@
+;void *data = new xyz::x[10];

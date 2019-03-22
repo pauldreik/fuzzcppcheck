@@ -1,0 +1,1 @@
+namespace A { struct BC { int b; int c; }; }; struct A::BC abc; x=&abc;

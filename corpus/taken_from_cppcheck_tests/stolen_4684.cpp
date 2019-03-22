@@ -1,0 +1,1 @@
+void f(){ssize_t x; scanf("%tu", &x);}

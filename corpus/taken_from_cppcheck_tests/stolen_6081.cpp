@@ -1,0 +1,1 @@
+void f(){uintmax_t x; scanf("%f", &x);}

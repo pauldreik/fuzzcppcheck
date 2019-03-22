@@ -1,0 +1,1 @@
+template<class T, class U> struct A { static const int value = 0; }; template <class T> struct B {   enum { value = A<typename T::type, int>::value }; };

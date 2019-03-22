@@ -1,0 +1,1 @@
+template <typename T> decltype(auto) forward(T& t) { return 0; }

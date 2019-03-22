@@ -1,0 +1,1 @@
+class ABC { struct {} def; } abc;

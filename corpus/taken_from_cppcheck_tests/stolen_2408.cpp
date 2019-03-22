@@ -1,0 +1,1 @@
+struct V : { public case {} ; struct U : U  void { V *f (int x) (x) } }

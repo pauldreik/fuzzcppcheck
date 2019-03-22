@@ -1,0 +1,1 @@
+struct A { int a : 3; int : 3; int c : 3; };

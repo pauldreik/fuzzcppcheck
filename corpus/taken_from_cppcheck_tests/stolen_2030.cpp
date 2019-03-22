@@ -1,0 +1,1 @@
+namespace A {> } class A{ { }} class A : T< ;

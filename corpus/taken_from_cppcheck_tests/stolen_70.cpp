@@ -1,0 +1,1 @@
+void f() { if (a) { {throw new string(x);}; } }

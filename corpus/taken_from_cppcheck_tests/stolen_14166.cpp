@@ -1,0 +1,1 @@
+bool f(int x) { return (x = (bool)x << 32); }

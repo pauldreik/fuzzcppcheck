@@ -1,0 +1,1 @@
+Fred::Fred() : log(0) { }

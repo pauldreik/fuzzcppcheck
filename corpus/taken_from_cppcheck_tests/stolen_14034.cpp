@@ -1,0 +1,1 @@
+int f(const Fred &fred) {return fred.pow(12,3);}

@@ -1,0 +1,1 @@
+void f(unsigned long long x){printf("%hu", x);}

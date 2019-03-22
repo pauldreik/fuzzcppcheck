@@ -1,0 +1,1 @@
+signed short foo(signed short x) { return x << 31; }

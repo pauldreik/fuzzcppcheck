@@ -1,0 +1,1 @@
+namespace A::B {namespace AB = A::B;void foo() {    namespace AB = A::B;    bar(AB::ab());    {         namespace AB = A;         baz(AB::a());    }    bar(AB::ab());}namespace AB = A::B;}

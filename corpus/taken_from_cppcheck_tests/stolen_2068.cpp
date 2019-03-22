@@ -1,0 +1,1 @@
+struct template<int { = }; > struct B { }; B < 0 > b;

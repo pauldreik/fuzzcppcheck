@@ -1,0 +1,4 @@
+namespace Foo
+{
+    int i;
+}

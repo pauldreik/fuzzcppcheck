@@ -1,0 +1,1 @@
+int result = [] { return git_run_cmd("update-index","update-index -q --refresh"); }();

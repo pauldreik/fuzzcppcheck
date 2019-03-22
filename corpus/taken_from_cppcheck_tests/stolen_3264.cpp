@@ -1,0 +1,1 @@
+void f(){unsigned char x; scanf("%hu", &x);}

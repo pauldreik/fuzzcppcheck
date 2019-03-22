@@ -1,0 +1,1 @@
+void f() {switch (n) { case sqrt(x+y): z(); break;}}

@@ -1,0 +1,1 @@
+void f(){std::intmax_t x; scanf("%ld", &x);}

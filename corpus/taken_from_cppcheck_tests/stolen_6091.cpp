@@ -1,0 +1,1 @@
+void f(){std::ptrdiff_t x; scanf("%f", &x);}

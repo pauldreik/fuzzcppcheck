@@ -1,0 +1,1 @@
+asm volatile ("fnstcw %0" : "= m" (old_cw));

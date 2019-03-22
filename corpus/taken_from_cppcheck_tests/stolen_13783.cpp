@@ -1,0 +1,1 @@
+struct A { unsigned char x : 3; };

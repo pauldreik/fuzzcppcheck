@@ -1,0 +1,1 @@
+if ((unsigned int)(unsigned char)*a)

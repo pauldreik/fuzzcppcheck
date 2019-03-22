@@ -1,0 +1,1 @@
+int * const a; x = a + 1;

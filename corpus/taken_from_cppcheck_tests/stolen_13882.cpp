@@ -1,0 +1,1 @@
+void foo() { _tprintf (_T("test") _T("1")); }

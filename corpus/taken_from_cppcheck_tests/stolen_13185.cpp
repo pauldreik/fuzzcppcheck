@@ -1,0 +1,1 @@
+class name { public: static void init ( ) {} } ; typedef struct name N; void foo ( ) { return N :: init ( ) ; }

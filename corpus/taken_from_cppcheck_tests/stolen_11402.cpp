@@ -1,0 +1,1 @@
+int foo(not i) { return g(i); }

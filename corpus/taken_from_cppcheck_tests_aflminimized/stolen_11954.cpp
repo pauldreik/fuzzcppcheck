@@ -1,0 +1,1 @@
+typedef void ( __gnu_cxx :: _SGIAssignableConcept < _Tp > :: * _func_Tp_SGIAssignableConcept ) () ;_func_Tp_SGIAssignableConcept X;

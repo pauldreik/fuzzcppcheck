@@ -1,0 +1,1 @@
+void foo(){ {} long const x;}

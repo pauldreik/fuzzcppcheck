@@ -1,0 +1,1 @@
+; strcat(strcat(strcat(strcat(strcat(strcat(dst, "this "), ""), "is "), "a "), "test"), ".");

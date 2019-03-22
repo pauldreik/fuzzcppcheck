@@ -1,0 +1,1 @@
+int f6(int a) {return (a == (int)1) ? (int)1 : (int)1; }

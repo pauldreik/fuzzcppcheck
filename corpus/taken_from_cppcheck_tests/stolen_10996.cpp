@@ -1,0 +1,1 @@
+template<class T> struct TestClass { T m_hi; };TestClass<std::auto_ptr<v>> objTest3;

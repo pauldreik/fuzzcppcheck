@@ -1,0 +1,1 @@
+HardDrive hd; hd.Format();

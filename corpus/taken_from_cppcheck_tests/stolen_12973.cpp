@@ -1,0 +1,1 @@
+enum E : unsigned char { }; void foo() { E e[3]; bar(e[0]); }

@@ -1,0 +1,1 @@
+void f(const std::vector<std::string>::size_type s) {}

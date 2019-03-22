@@ -1,0 +1,1 @@
+signed long long f(signed long long x) { return x << 62; }

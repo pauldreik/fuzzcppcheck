@@ -1,0 +1,1 @@
+void f() { if (!c or !memcmp(a, b, s)); }

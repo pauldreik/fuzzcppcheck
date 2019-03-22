@@ -1,0 +1,1 @@
+template < typename > struct A { } ; template < typename > struct A < INVALID > : A < int[ > { }] ;

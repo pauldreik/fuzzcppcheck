@@ -1,0 +1,1 @@
+enum H : short { x, y, z } h{x};

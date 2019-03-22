@@ -1,0 +1,1 @@
+template struct T<int> ; void foo() { }

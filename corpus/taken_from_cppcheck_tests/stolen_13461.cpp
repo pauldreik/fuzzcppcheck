@@ -1,0 +1,1 @@
+class Item { int i ; public: Item ( int i ) ; } ; Item :: Item ( int i ) : i ( i ) { }

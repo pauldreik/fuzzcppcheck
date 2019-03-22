@@ -1,0 +1,1 @@
+i = (unsigned)j;

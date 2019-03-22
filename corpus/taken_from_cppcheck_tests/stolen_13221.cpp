@@ -1,0 +1,1 @@
+a->data = reinterpret_cast<void*>(static_cast<intptr_t>(f));

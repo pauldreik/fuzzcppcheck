@@ -1,0 +1,1 @@
+;void *data = new u32[10];

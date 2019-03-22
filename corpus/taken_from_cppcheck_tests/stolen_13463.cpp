@@ -1,0 +1,1 @@
+template < typename T1 > template < typename T2 > void A < T1 > :: foo ( T2 ) { }

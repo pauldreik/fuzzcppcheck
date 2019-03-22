@@ -1,0 +1,1 @@
+void foo() { B b(this); A a(this, b); }

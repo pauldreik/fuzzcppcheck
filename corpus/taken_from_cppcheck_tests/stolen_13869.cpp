@@ -1,0 +1,1 @@
+void foo() { int a[10], b[10]; MoveMemory(a, b, sizeof(a)); }

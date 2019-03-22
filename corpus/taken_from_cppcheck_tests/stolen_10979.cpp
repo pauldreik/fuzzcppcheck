@@ -1,0 +1,1 @@
+template <typename T1, typename T2 = T3<T1> > class C1 {}; class C2 : public C1<C2> {};

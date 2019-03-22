@@ -1,0 +1,1 @@
+class A { }; template<class T> class B { }; template<class T1, class T2 = B<T1>> class C { }; template<class T1 = A, typename T2 = B<A>> class D { };

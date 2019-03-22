@@ -1,0 +1,1 @@
+int X::f(int b) const { return(a*b); }

@@ -1,0 +1,1 @@
+unsigned int f(int x) { return (x = (unsigned int)x << 32); }

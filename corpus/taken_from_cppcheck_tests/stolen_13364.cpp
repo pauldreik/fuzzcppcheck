@@ -1,0 +1,1 @@
+void f() {  char buf[10] = "ab";    memset(buf, 0, 10);}

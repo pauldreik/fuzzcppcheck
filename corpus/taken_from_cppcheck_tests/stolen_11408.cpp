@@ -1,0 +1,1 @@
+void f() { r = a and b; }

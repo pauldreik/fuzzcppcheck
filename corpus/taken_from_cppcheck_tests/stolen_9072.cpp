@@ -1,0 +1,1 @@
+void f(__int64 x){printf("%I64d", x);}

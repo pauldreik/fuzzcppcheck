@@ -1,0 +1,1 @@
+void f1(char [10], struct foo [10]);

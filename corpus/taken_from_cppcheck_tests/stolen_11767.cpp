@@ -1,0 +1,10 @@
+typedef union s S, * PS;
+typedef union t { int a; float b ; } T, *TP;
+typedef union { int a; float b; } U;
+typedef union { int a; float b; } * V;
+S s;
+PS ps;
+T t;
+TP tp;
+U u;
+V v;

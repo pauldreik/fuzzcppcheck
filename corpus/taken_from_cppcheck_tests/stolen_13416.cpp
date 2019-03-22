@@ -1,0 +1,1 @@
+void f() { int a; int *p=&a; if (x>*p) {} }

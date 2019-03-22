@@ -1,0 +1,1 @@
+template<int d, typename A, typename B> struct S {};

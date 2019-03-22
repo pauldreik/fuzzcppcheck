@@ -1,0 +1,1 @@
+void f(unsigned short x){printf("%jx", x);}

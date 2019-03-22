@@ -1,0 +1,1 @@
+void f ( ) { char str [ 100 ] = "100" ; sizeof ( str ) }

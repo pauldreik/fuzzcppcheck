@@ -1,0 +1,1 @@
+template<template<class> class A, class B> void f(){}

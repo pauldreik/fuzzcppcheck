@@ -1,0 +1,1 @@
+template<class T, class U> class A { A(); }; template<class T, class U> A<T, U>::A() {}

@@ -1,0 +1,1 @@
+enum B { x , y, z } b{x};

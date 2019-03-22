@@ -1,0 +1,1 @@
+thread_local void *thread_local_var; int main() {   thread_local_var = malloc(1337);   return 0; }

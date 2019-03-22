@@ -1,0 +1,1 @@
+; const char str[] = "1"; sizeof(str);

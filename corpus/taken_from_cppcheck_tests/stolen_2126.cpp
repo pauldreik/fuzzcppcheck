@@ -1,0 +1,1 @@
+template <typename T> struct A {}; template <> struct A<void> {}; void foo(const void* f = 0) {}

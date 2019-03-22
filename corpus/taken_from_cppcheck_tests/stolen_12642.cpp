@@ -1,0 +1,1 @@
+class Foo { Foo(Foo& f, int default = 0); };

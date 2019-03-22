@@ -1,0 +1,1 @@
+const char * names[2];for (int i = 0; i != sizeof(names[0]); i++){}

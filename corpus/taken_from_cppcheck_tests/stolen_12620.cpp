@@ -1,0 +1,1 @@
+auto func() -> int { }

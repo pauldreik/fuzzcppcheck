@@ -1,0 +1,1 @@
+void f() { char *p=0; return (p==0)?1:2; }

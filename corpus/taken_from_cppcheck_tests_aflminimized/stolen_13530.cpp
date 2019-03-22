@@ -1,0 +1,1 @@
+unsigned int x;static const unsigned int A = 1, B = A, C = 0, D = (A), E = 0;void f() {  unsigned int *foo = &x;}

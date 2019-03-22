@@ -1,0 +1,1 @@
+{ { } }; { { } }; { }; class bar : public virtual

@@ -1,0 +1,1 @@
+void f(){intptr_t x; scanf("%Lx", &x);}

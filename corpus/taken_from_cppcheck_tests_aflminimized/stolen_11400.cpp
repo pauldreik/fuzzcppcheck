@@ -1,0 +1,1 @@
+ void f() { not p; compl c; }

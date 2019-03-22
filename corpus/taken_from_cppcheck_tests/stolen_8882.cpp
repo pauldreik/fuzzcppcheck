@@ -1,0 +1,1 @@
+void f(unsigned ptrdiff_t x){printf("%I64u", x);}

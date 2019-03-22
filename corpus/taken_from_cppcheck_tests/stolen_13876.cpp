@@ -1,0 +1,1 @@
+void foo() { ZeroMemory(f(1, g(a, b)), h(i, j(0, 1))); }

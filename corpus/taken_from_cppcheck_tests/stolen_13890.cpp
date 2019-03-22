@@ -1,0 +1,1 @@
+class Counter : public QObject {     Q_OBJECT public:     Counter() { m_value = 0; }     int value() const { return m_value; } public Q_SLOTS:     void setValue(int value); Q_SIGNALS:     void valueChanged(int newValue); private:     int m_value; };void Counter::setValue(int value) {     if (value != m_value) {         m_value = value;         emit valueChanged(value);     } }

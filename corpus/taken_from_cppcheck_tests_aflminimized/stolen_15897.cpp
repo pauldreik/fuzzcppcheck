@@ -1,0 +1,1 @@
+typedef struct foo {} foo; void bar1(struct foo foo) {} void baz1(foo foo) {} void bar2(struct foo& foo) {} void baz2(foo& foo) {} void bar3(struct foo* foo) {} void baz3(foo* foo) {}

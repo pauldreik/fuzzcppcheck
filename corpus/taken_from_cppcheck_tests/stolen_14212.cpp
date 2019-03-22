@@ -1,0 +1,1 @@
+signed long long foo(signed long long x) { return x << 64; }

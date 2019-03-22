@@ -1,0 +1,1 @@
+char a [ 2 ] = { '-' } ; memset ( a , '-' , sizeof ( a ) ) ;

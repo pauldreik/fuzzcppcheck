@@ -1,0 +1,1 @@
+void f(){char x; scanf("%Lf", &x);}

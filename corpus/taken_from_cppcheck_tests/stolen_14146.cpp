@@ -1,0 +1,1 @@
+void f() { do switch (a) {} while (1); }

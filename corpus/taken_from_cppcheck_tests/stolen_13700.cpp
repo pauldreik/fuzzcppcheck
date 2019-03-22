@@ -1,0 +1,1 @@
+struct __attribute__((packed, gcc_struct)) Payload_IR_config { uint8_t tap[16]; };

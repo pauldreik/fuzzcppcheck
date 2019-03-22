@@ -1,0 +1,1 @@
+void foo () {    exit(0);    {        boo();        while (n) { --n; }        {            label:            ok();        }    }}

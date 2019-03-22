@@ -1,0 +1,1 @@
+void f(){intmax_t x; scanf("%Lx", &x);}

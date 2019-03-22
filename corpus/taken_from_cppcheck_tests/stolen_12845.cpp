@@ -1,0 +1,1 @@
+void f() { float * f; static const float * scf; }

@@ -1,0 +1,1 @@
+struct a { char typename[2]; };

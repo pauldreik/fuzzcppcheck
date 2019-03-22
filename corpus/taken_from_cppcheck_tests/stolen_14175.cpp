@@ -1,0 +1,1 @@
+unsigned long f(int x) { return (x = (unsigned long)x << 32); }

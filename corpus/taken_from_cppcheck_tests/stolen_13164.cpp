@@ -1,0 +1,1 @@
+void a(Fred* f) MACRO { for (;n < f->x();) {} }

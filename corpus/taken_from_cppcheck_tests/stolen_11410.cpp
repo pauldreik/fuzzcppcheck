@@ -1,0 +1,1 @@
+void f() { if (test1[i] == 'A' and test2[i] == 'C') {} }

@@ -1,0 +1,1 @@
+void foo(){ switch (n){ label: case 1: label1: label2: break; }}

@@ -1,0 +1,1 @@
+void check( const char fname[] = 0) { }

@@ -1,0 +1,1 @@
+{ } [ ] { ( ) } { } typedef void ( *fptr1 ) ( ) const

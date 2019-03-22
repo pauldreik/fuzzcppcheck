@@ -1,0 +1,16 @@
+typedef int INT;
+typedef unsigned int UINT;
+typedef int * PINT;
+typedef unsigned int * PUINT;
+typedef int & RINT;
+typedef unsigned int & RUINT;
+typedef const int & RCINT;
+typedef const unsigned int & RCUINT;
+INT ti;
+UINT tui;
+PINT tpi;
+PUINT tpui;
+RINT tri;
+RUINT trui;
+RCINT trci;
+RCUINT trcui;

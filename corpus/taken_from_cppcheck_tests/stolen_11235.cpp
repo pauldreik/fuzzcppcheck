@@ -1,0 +1,1 @@
+ void f() { if( aa ) { a=0; } else if( false ) a=1; else { a=2; } }

@@ -1,0 +1,1 @@
+void f(unsigned short x){printf("%I64x", x);}

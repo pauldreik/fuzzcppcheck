@@ -1,0 +1,1 @@
+signed int foo(signed int x) { return x << 30; }

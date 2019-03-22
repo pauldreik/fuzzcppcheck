@@ -1,0 +1,1 @@
+{ { void foo() { struct }; { }; } }; struct S { } f =

@@ -1,0 +1,1 @@
+void f() { for (signed i=0; i<10; i++) {} }

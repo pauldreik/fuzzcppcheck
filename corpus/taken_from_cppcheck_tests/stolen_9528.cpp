@@ -1,0 +1,1 @@
+void f() { Fred fred = malloc(10); }

@@ -1,0 +1,1 @@
+struct A { LONG x : 3; };

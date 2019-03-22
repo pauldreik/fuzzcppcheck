@@ -1,0 +1,1 @@
+abcd = U"ab" U"cd";

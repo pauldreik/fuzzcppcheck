@@ -1,0 +1,1 @@
+template < f = b || c > struct S;

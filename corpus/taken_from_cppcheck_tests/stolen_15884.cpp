@@ -1,0 +1,1 @@
+int main(int flag) { if(a & flag) { return 1; } }

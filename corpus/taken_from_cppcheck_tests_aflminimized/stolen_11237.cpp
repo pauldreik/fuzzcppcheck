@@ -1,0 +1,1 @@
+static const int x=1; void f() { if(x) { a=0; } }

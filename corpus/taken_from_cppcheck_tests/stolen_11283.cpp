@@ -1,0 +1,1 @@
+void foo(int p){if((p)>=0);}

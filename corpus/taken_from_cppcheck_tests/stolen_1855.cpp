@@ -1,0 +1,1 @@
+struct x foo_t; foo_t typedef y;

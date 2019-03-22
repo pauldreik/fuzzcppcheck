@@ -1,0 +1,1 @@
+( ) { } typedef void noattr_t ( ) ; noattr_t __attribute__ ( )

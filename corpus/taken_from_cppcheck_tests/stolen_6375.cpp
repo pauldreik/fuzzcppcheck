@@ -1,0 +1,1 @@
+void f(){double x; scanf("%n", &x);}

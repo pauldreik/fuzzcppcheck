@@ -1,0 +1,1 @@
+void f(std::string &string, std::string &len) {}

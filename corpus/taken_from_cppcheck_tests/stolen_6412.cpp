@@ -1,0 +1,1 @@
+void f(){std::size_t x; scanf("%n", &x);}

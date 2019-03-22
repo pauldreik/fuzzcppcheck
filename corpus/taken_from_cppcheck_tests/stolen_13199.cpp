@@ -1,0 +1,1 @@
+void f() {switch (n) { case g[0]: z(); break;}}

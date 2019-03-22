@@ -1,0 +1,2 @@
+short bar;
+class foo;

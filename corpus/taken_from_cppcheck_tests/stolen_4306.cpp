@@ -1,0 +1,1 @@
+void f(){ptrdiff_t x; scanf("%jx", &x);}

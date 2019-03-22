@@ -1,0 +1,1 @@
+(int a[3]); typedef void (*fp) (void); fp

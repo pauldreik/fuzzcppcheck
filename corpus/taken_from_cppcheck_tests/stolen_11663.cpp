@@ -1,0 +1,1 @@
+enum A { x, y, z } a(x);

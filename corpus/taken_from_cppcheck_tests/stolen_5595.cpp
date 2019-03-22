@@ -1,0 +1,1 @@
+void f(){std::ssize_t x; scanf("%I32u", &x);}

@@ -1,0 +1,1 @@
+struct A {void f() const throw () {}}; int main() {A a; a.f();}

@@ -1,0 +1,1 @@
+template<class T> class A { unsigned foo(); }; template<class T> unsigned A<T>::foo() { return 0; }

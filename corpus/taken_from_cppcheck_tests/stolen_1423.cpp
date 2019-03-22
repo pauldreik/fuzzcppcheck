@@ -1,0 +1,4 @@
+class Fred
+{
+    int i;
+};

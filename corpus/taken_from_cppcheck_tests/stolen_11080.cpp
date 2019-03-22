@@ -1,0 +1,1 @@
+X<struct C> x;

@@ -1,0 +1,1 @@
+; std::strncpy(a,b,10);

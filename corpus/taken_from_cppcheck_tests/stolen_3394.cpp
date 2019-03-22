@@ -1,0 +1,1 @@
+void f(){unsigned long x; scanf("%hx", &x);}

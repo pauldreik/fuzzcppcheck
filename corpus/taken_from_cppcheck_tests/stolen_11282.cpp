@@ -1,0 +1,1 @@
+void f(){DIR * f = opendir(dirname);if (closedir(f)){}}

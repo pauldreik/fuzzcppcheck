@@ -1,0 +1,1 @@
+void foo () { enum : int { Six = 6 } ; return Six ; }

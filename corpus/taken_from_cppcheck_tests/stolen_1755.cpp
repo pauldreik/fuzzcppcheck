@@ -1,0 +1,1 @@
+int f() { strtol(a,b,sizeof(a)!=12); }

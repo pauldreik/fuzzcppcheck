@@ -1,0 +1,1 @@
+struct { char c; }

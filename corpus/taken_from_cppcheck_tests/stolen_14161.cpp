@@ -1,0 +1,1 @@
+unsigned char foo(unsigned char x) { return x << 31; }

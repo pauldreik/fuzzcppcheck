@@ -1,0 +1,1 @@
+struct B final : A { void foo(); };

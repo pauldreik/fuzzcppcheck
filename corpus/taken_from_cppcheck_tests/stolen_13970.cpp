@@ -1,0 +1,1 @@
+template <typename T> void g(S<&T::template operator- <double> >) {}

@@ -1,0 +1,1 @@
+const char* const volatile * const volatile * const volatile * const volatile s;

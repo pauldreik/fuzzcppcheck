@@ -1,0 +1,1 @@
+X<class, typename...> x;

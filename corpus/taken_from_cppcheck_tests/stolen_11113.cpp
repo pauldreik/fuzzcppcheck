@@ -1,0 +1,1 @@
+template<class T> std::map<int, int> foo() { static std::map<int, int> m; return m; }

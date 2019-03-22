@@ -1,0 +1,1 @@
+; std::strcpy(a,b);

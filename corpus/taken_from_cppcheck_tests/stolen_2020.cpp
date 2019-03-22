@@ -1,0 +1,1 @@
+typedef __attribute__((vector_size (16))) { return[ (v2df){ } ;] }

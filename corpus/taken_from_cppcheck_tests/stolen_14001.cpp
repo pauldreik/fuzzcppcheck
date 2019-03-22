@@ -1,0 +1,1 @@
+UINT32 a; ::UINT32 b; foo::UINT32 c;

@@ -1,0 +1,1 @@
+a = (long long)32;

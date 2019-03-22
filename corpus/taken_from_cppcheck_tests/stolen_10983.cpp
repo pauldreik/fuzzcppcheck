@@ -1,0 +1,1 @@
+template<int N, int ... M> struct A {   static void foo() {     int i = N;   } }; void bar() {   A<0>::foo(); }

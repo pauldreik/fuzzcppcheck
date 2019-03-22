@@ -1,0 +1,1 @@
+void f() { exit(0); foo(); }

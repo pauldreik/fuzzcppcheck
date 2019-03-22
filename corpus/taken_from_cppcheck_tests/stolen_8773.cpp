@@ -1,0 +1,1 @@
+void f(uintptr_t x){printf("%Ix", x);}

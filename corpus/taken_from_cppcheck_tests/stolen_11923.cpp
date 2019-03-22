@@ -1,0 +1,1 @@
+class a; typedef int (a::*b); template <long, class> struct c; template <int g> struct d { enum { e = c<g, b>::f }; };

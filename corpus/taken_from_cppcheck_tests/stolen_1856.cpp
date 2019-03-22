@@ -1,0 +1,1 @@
+enum { D = 1  struct  { } ; }  s.b = D;

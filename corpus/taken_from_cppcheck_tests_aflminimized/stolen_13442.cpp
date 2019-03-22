@@ -1,0 +1,1 @@
+static int x;void f() {    x = 123;    while (!x) { dostuff(); }}

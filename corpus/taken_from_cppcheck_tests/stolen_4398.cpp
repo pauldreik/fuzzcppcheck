@@ -1,0 +1,1 @@
+void f(){unsigned short x; scanf("%zu", &x);}

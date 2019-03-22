@@ -1,0 +1,1 @@
+void f() { PROGMEM int x ; }

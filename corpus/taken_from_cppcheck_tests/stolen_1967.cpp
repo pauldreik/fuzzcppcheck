@@ -1,0 +1,1 @@
+{ } { } typedef int int_array[]; int_array &right =

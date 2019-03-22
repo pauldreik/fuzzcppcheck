@@ -1,0 +1,1 @@
+struct A { __int16 x : 3; };

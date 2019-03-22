@@ -1,0 +1,1 @@
+void *operator new(__SIZE_TYPE__, int);

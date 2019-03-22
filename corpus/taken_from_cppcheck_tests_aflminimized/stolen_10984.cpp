@@ -1,0 +1,1 @@
+template <int value> int sum() {   return value + sum<value/2>(); } template<int x, int y> int calculate_value() {   if (x != y) {     return sum<x - y>();   } else {     return 0;   } } int value = calculate_value<1,1>();

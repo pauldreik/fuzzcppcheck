@@ -1,0 +1,18 @@
+enum E { X };
+enum EC : char { C };
+enum ES : short { S };
+enum EI : int { I };
+enum EL : long { L };
+enum ELL : long long { LL };
+char array1[sizeof(E)];
+char array2[sizeof(X)];
+char array3[sizeof(EC)];
+char array4[sizeof(C)];
+char array5[sizeof(ES)];
+char array6[sizeof(S)];
+char array7[sizeof(EI)];
+char array8[sizeof(I)];
+char array9[sizeof(EL)];
+char array10[sizeof(L)];
+char array11[sizeof(ELL)];
+char array12[sizeof(LL)];

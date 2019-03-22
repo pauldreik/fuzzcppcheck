@@ -1,0 +1,1 @@
+const string str = x<8,int>();

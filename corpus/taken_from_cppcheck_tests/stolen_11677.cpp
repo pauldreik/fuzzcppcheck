@@ -1,0 +1,1 @@
+__inline int foo ( ) { }

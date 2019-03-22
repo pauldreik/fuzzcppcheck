@@ -1,0 +1,1 @@
+Fred<int(*)()> fred1=a, fred2=b;

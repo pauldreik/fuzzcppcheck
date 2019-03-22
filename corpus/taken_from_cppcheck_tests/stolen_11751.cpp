@@ -1,0 +1,1 @@
+using namespace std; namespace ios = boost::iostreams; ios::istream foo("foo");

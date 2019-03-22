@@ -1,0 +1,1 @@
+void f () { {scope_lock lock; foo();} {scope_lock lock; bar();} }

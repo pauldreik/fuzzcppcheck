@@ -1,0 +1,1 @@
+unsigned char f(unsigned char x) { return x << 33; }

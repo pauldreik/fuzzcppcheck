@@ -1,0 +1,1 @@
+ void f() { int a; bool use = true; if( use ) a=0; else if( bb ) a=1; int c=1; }

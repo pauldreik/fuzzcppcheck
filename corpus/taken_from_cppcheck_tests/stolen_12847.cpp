@@ -1,0 +1,1 @@
+void f() { class A {} a; void *b;  }

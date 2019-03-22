@@ -1,0 +1,1 @@
+integral_constant < bool, sizeof ( ConvertHelper < From, To > :: Create ( ) ) > ;

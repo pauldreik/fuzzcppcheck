@@ -1,0 +1,1 @@
+int * g(int); void f(int a, int b) { int x = g(a)[b]; }

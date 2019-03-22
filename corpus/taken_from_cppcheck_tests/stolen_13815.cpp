@@ -1,0 +1,1 @@
+struct A { UINT8 x : 3; };

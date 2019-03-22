@@ -1,0 +1,1 @@
+struct A { public: B a, b, c, d; };

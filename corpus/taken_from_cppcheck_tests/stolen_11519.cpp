@@ -1,0 +1,1 @@
+void f(){    if (k>0) goto label;    exit(0);    if (tnt)    {        {            check();            k=0;        }        label:        bar();    } }

@@ -1,0 +1,1 @@
+struct X {int i;}; void f(struct X x) { x.i }

@@ -1,0 +1,1 @@
+union S { int i; float f; }; union S s; union S *p(&s);

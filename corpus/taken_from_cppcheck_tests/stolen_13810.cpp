@@ -1,0 +1,1 @@
+struct A { UCHAR x : 3; };

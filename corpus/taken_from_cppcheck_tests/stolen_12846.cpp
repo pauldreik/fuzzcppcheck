@@ -1,0 +1,1 @@
+void f() { float fa[42]; }

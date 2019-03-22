@@ -1,0 +1,1 @@
+void f(const std::function<F> ptr) {}

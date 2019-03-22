@@ -1,0 +1,1 @@
+[](void) constexpr -> const * const* int { return x }

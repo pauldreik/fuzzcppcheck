@@ -1,0 +1,1 @@
+int* f8() { int *x = NULL; return --x; }

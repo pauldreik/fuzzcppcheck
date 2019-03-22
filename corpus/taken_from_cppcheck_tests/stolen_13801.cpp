@@ -1,0 +1,1 @@
+struct A { protected: int x : 3; };

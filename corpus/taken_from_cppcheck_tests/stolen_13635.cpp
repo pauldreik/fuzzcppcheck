@@ -1,0 +1,1 @@
+template<class R> struct FuncType<R(&)()> : FuncType<R()> { };

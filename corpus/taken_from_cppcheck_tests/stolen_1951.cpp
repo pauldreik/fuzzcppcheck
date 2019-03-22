@@ -1,0 +1,1 @@
+{ { } }; void foo (struct int i) { x->b[i] = = }

@@ -1,0 +1,1 @@
+void f(int a) { int x; fun(a,b*x); }

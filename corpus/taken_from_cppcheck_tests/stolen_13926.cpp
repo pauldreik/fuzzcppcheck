@@ -1,0 +1,1 @@
+void foo ( char str [ ] ) { char x = 0 | ( * str ) ; }

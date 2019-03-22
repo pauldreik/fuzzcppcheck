@@ -1,0 +1,1 @@
+template <typename F, unsigned int N> struct E{    typedef E<F,(N>0)?(N-1):0> v;    typedef typename add<v,v>::val val;    FP_M(val);};template <typename F> struct E <F,0>{    typedef typename D<1>::val val;    FP_M(val);};

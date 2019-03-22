@@ -1,0 +1,1 @@
+[](void) mutable -> const * int { return x }

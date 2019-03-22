@@ -1,0 +1,1 @@
+typedef int CRCWord; template<typename T> ::CRCWord const Compute(T const t) { return 0; }

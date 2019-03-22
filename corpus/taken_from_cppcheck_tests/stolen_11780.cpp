@@ -1,0 +1,1 @@
+typedef jobject invoke_t (jobject, Proxy *, Method *, JArray< jobject > *);

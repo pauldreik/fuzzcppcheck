@@ -1,0 +1,1 @@
+void f ( ) { int n = 1; DISPATCH(while); }

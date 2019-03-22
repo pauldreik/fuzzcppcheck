@@ -1,0 +1,1 @@
+int a, b; int a,sizeof(a+b)

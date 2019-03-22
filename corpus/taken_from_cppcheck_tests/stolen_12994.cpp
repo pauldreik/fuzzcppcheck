@@ -1,0 +1,1 @@
+; auto data = new (std::nothrow) int[100];

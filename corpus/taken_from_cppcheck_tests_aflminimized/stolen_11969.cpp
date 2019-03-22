@@ -1,0 +1,16 @@
+using INT = int;
+using UINT = unsigned int;
+using PINT = int *;
+using PUINT = unsigned int *;
+using RINT = int &;
+using RUINT = unsigned int &;
+using RCINT = const int &;
+using RCUINT = const unsigned int &;
+INT ti;
+UINT tui;
+PINT tpi;
+PUINT tpui;
+RINT tri;
+RUINT trui;
+RCINT trci;
+RCUINT trcui;

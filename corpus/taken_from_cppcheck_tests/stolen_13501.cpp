@@ -1,0 +1,1 @@
+list < int > * f [ 1 ] = { new ( list < int > ) } ;

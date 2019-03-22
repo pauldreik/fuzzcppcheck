@@ -1,0 +1,1 @@
+[](void) mutable -> int { return -1 }

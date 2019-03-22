@@ -1,0 +1,1 @@
+{ } { } typedef void voidfn(void); <voidfn&

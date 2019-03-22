@@ -1,0 +1,1 @@
+void f() { MACRO(bar1, exit(0)) }

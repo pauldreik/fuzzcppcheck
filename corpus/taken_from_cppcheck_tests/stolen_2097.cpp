@@ -1,0 +1,1 @@
+enum { FOO = ( , ){ } { { } } { { FOO} = } ( ) } { { } } enumL" ( enumL" { { FOO } ( ) } { { } } ;

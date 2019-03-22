@@ -1,0 +1,1 @@
+void f() { Fred *p = new Fred; }

@@ -1,0 +1,1 @@
+int f(bool c) { memset(a,b,c); }

@@ -1,0 +1,1 @@
+void f() { exit(0); dead(); switch (n) { case 1: deadcode () ; default: deadcode (); } }

@@ -1,0 +1,1 @@
+void f() {    const char *q = "hello";    strcpy(p, q);}

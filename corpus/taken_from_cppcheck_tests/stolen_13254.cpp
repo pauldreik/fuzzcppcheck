@@ -1,0 +1,1 @@
+__asm mov a, b ;

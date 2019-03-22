@@ -1,0 +1,1 @@
+{ g; S (void) { struct } { } int &g; }

@@ -1,0 +1,1 @@
+void f(intmax_t x){printf("%llu", x);}

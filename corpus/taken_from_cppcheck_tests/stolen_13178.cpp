@@ -1,0 +1,1 @@
+void f ( ) { int max_x ; max_x = -10000 << 16 ; }

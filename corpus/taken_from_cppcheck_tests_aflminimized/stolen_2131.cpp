@@ -1,0 +1,1 @@
+template<class T, class U> class A {}; template<class T = A<int, int> > class B {}; template<class T = B<int> > class C {     C() : _a(0), _b(0) {}     int _a, _b; };

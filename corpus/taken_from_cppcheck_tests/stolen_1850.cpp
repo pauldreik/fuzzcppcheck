@@ -1,0 +1,1 @@
+f ( ) { switch break; { switch ( x ) { case } case break; -6: ( ) ; } }

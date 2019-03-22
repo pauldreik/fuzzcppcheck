@@ -1,0 +1,1 @@
+; while (f() && (errno == EINTR)) { }

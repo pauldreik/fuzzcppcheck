@@ -1,0 +1,1 @@
+struct AB {int a; int b;}; struct AB ab; x=&ab;

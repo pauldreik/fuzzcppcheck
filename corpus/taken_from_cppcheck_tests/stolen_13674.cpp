@@ -1,0 +1,1 @@
+typedef void (* PF)();void f1 ( ) { }PF pf = &f1;PF pfs[] = { &f1, &f1 };

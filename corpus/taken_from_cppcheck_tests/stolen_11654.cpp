@@ -1,0 +1,1 @@
+class ABC : public XYZ { struct {} def; };

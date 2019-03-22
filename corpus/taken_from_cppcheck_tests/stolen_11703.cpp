@@ -1,0 +1,1 @@
+int __far __clrcall f();

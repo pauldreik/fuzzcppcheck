@@ -1,0 +1,1 @@
+int f(){ __CPPCHECK_EMBEDDED_SQL_EXEC__ SQL } int a;

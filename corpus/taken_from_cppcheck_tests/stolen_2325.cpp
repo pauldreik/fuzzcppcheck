@@ -1,0 +1,1 @@
+*(*const<> (size_t); foo) { } *(*const (size_t)() ; foo) { }

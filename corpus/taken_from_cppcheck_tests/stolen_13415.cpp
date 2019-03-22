@@ -1,0 +1,1 @@
+void f() { int a; struct AB ab; ab.a = &a; if (*ab.a>0) {} }
